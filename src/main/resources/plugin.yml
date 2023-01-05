@@ -1,0 +1,16 @@
+name: TokoEarthSMP
+version: '${project.version}'
+main: com.lynxdeer.sieged.Sieged
+api-version: 1.18
+authors: [ Lynxdeer ]
+description: toko smp plugin lol
+commands:
+  cgive:
+    description: your mom
+    permission: op
+  map:
+    description: Opens the map.
+  tpa:
+    description: tpa lol
+  tpaccept:
+    description: tpaccept lol
